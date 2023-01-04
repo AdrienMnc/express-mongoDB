@@ -6,3 +6,4 @@ contenu, nom de l’auteur, date du jour)
 o GET /posts : permettant de récupérer tous les posts
 o GET /post/:id : permettant de récupérer un post par son id
 o DELETE /post/:id : permettant de supprimer un post par son id
+# atelier-20
